@@ -2,7 +2,6 @@ import { chromium, Page, Browser } from "playwright"
 
 let browser: Browser
 let page: Page
-
 beforeAll(async () => {
   browser = await chromium.launch()
 })
