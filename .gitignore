@@ -15,3 +15,5 @@ node-*
 /lib/coder-cloud-agent
 .home
 coverage
+test/videos
+test/screenshots
